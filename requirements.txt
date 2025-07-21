@@ -1,0 +1,15 @@
+python-dotenv==0.21.0
+langchain==0.1.17
+langchain-community==0.0.36
+langchain-anthropic==0.1.13
+langchain-google-genai==0.0.8
+langchain-google-firestore==0.5.0
+google-cloud-firestore==2.16.0
+chromadb==0.5.0
+tiktoken==0.7.0
+sentence-transformers==3.0.0
+bs4==0.0.2
+firecrawl-py==0.0.13
+langchainhub==0.1.18
+wikipedia==1.4.0
+
