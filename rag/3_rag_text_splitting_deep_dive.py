@@ -17,7 +17,7 @@ class GeminiEmbeddings:
     def __init__(self):
         self.model = GoogleGenerativeAIEmbeddings(
             model="models/embedding-001",
-            google_api_key="AIzaSyA-KyS4dzHvlSwmQ8quIHsT_AYA5EvmbBI",  # Replace with your actual API key
+            google_api_key="******",  # Replace with your actual API key
         )
 
     def embed_documents(self, texts):
